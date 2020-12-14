@@ -9,7 +9,7 @@ Hopefully this will make it cleaerer
 Not actually writing any code
 
 <h1>Learning Git & CLI</h1>
-<p>Perhaps wriuting some html elements will help</p>
+<p>Perhaps writing some html elements will help</p>
 <ol>
   <li>code</li>
   <li>color</li>

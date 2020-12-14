@@ -25,5 +25,5 @@ Not actually writing any code
     <ol>
         <li>practical - creating a new branch</li>
         <li>practical - using pull</li>
-        <li>practical - deleting branch<li>
+        <li>practical - deleting branch</li>
     </ol>

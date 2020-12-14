@@ -23,7 +23,7 @@ Not actually writing any code
 
  <h1>Practise push and pull</h1>
     <ol>
-        <li>practical - creating a new branch</li>
+        <li>practical - creating a new branch</li><br></br>
         <li>practical - using pull</li>
         <li>practical - deleting branch</li>
     </ol>

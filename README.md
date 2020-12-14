@@ -21,4 +21,9 @@ Not actually writing any code
 <p>starting to make sense</p>
 <p>going to be a developer soon</p>
 
- 
+ <h1>Practise push and pull</h1>
+    <ol>
+        <li>practical - creating a new branch</li>
+        <li>practical - using pull</li>
+        <li>practical - deleting branch<li>
+    </ol>

@@ -16,4 +16,9 @@ Not actually writing any code
   <li>elements</li>
 </ol>
 
+
+<h1>putting it into practise</h1>
+<p>starting to make sense</p>
+<p>going to be a developer soon</p>
+
  
